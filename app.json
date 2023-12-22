@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1b034ce2-7eb2-42cc-a054-062aa82d3b92"
+      }
+    },
+    "owner": "pnstack"
   }
 }
